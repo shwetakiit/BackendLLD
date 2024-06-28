@@ -1,4 +1,4 @@
-package kumari.shweta.DesignPattern.adapterDesign;
+package kumari.shweta.DesignPattern.structuraldesign.adapterDesign;
 
 public class Client {
 

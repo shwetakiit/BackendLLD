@@ -1,6 +1,6 @@
-package kumari.shweta.DesignPattern.adapterDesign;
+package kumari.shweta.DesignPattern.structuraldesign.adapterDesign;
 
-import kumari.shweta.DesignPattern.adapterDesign.thirdParty.iciciBankAPI;
+import kumari.shweta.DesignPattern.structuraldesign.adapterDesign.thirdParty.iciciBankAPI;
 
 public class ICICIBankAPIAdapter  implements  BankAPIAdapter{
 

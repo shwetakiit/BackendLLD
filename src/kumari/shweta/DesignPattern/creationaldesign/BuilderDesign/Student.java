@@ -1,4 +1,4 @@
-package kumari.shweta.DesignPattern.BuilderDesign;
+package kumari.shweta.DesignPattern.creationaldesign.BuilderDesign;
 
 public class Student {
 

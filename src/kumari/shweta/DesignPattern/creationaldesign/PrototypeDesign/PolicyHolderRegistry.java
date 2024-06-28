@@ -1,4 +1,4 @@
-package kumari.shweta.DesignPattern.PrototypeDesign;
+package kumari.shweta.DesignPattern.creationaldesign.PrototypeDesign;
 
 import java.util.HashMap;
 import java.util.Map;

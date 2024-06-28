@@ -1,6 +1,4 @@
-package kumari.shweta.DesignPattern.PrototypeDesign;
-
-import kumari.shweta.DesignPattern.BuilderDesign.Student;
+package kumari.shweta.DesignPattern.creationaldesign.PrototypeDesign;
 
 public class Client {
 
